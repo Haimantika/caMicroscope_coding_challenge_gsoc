@@ -1,4 +1,4 @@
-The coding challenge (probably) will end up having two steps; 1) detect the edge of an object and 2) for an arbitrary point, return which position on the edge of the object is closest.
+#The coding challenge (probably) will end up having two steps; 1) detect the edge of an object and 2) for an arbitrary point, return which position on the edge of the object is closest.
 #image gradients using opencv
 import cv2
 import numpy as np
